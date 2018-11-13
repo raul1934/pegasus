@@ -1,0 +1,2 @@
+# Pegasus
+Gerenciador de Lojas
